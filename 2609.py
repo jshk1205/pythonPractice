@@ -9,5 +9,5 @@ while num2 != 0:
     num1, num2 = num2, r
     factor = num1
     multi = (a * b) // num1
-print(factor)
-print(multi)
+print(factor) #최대공약수
+print(multi) # 최소공배수
